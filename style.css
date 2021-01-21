@@ -279,6 +279,11 @@ li, a, button {
   justify-content: flex-end;
 }
 
+.card-title h2 {
+  font-size: 18px;
+}
+
+
 .card {
   flex-shrink: 0;
   width: 205px;
@@ -329,5 +334,8 @@ li, a, button {
   ::-webkit-scrollbar {
     background: linear-gradient(transparent, var(--primary));
     border-radius: 10px;
+  }
+  .card-title h2 {
+    font-size: 18px;
   }
 }
