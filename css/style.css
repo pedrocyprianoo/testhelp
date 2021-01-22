@@ -178,7 +178,7 @@ li, a, button {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: url(./images/professor.png) no-repeat center center;
+  background: url(../images/professor.png) no-repeat center center;
   background-size: cover;
 }
   
