@@ -33,10 +33,15 @@ header {
     color: snow;
     cursor: pointer;
     margin-right: auto; /*Colocando logo no canto esquerdo*/
+    text-decoration: none;
+    font-size: 24px;
 }
 
 #logo-help {
     color: #0088a9;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
 }
 
 li, a, button {
